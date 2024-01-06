@@ -1,0 +1,15 @@
+.logo {
+    display:flex;
+    margin: 15px auto;
+    background-color: black;
+    border-radius: 15px;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}

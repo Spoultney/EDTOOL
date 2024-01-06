@@ -1,0 +1,27 @@
+
+ul {
+    color: black;
+    padding: 1rem;
+    margin: 0 auto;
+    width: 20%;
+    
+}
+
+li {
+    display: flex;
+    flex:content;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    list-style: none;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid grey;
+    border-radius: 15px;
+    box-shadow: 1px 1px blue;
+    background-color: lightgrey;
+    
+
+
+
+}
